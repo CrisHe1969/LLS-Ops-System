@@ -3,7 +3,7 @@
   background-image:none;
   position:relative;
   left:-28px;
-  width:1929px;
+  width:1928px;
   margin-left:auto;
   margin-right:auto;
   text-align:left;
@@ -61,16 +61,16 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:901px;
-  height:277px;
+  width:864px;
+  height:1478px;
 }
 #u1199 {
   border-width:0px;
   position:absolute;
-  left:1056px;
+  left:28px;
   top:59px;
-  width:901px;
-  height:277px;
+  width:864px;
+  height:1478px;
   display:flex;
 }
 #u1199 .text {
@@ -86,51 +86,61 @@
   text-transform:none;
   visibility:hidden;
 }
-#u1200_img {
+#u1200_div {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:899px;
-  height:319px;
+  width:169px;
+  height:33px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial', sans-serif;
+  font-style:normal;
 }
 #u1200 {
   border-width:0px;
   position:absolute;
-  left:1057px;
-  top:875px;
-  width:899px;
-  height:319px;
+  left:28px;
+  top:18px;
+  width:169px;
+  height:33px;
   display:flex;
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial', sans-serif;
+  font-style:normal;
 }
 #u1200 .text {
   position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
 }
 #u1200_text {
   border-width:0px;
-  word-wrap:break-word;
+  white-space:nowrap;
   text-transform:none;
-  visibility:hidden;
 }
 #u1201_img {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:897px;
-  height:229px;
+  width:899px;
+  height:274px;
 }
 #u1201 {
   border-width:0px;
   position:absolute;
-  left:1057px;
-  top:604px;
-  width:897px;
-  height:229px;
+  left:1056px;
+  top:58px;
+  width:899px;
+  height:274px;
   display:flex;
 }
 #u1201 .text {
@@ -151,16 +161,16 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:898px;
-  height:273px;
+  width:900px;
+  height:434px;
 }
 #u1202 {
   border-width:0px;
   position:absolute;
-  left:1057px;
-  top:332px;
-  width:898px;
-  height:273px;
+  left:1056px;
+  top:330px;
+  width:900px;
+  height:434px;
   display:flex;
 }
 #u1202 .text {
@@ -181,16 +191,16 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:864px;
-  height:1478px;
+  width:901px;
+  height:94px;
 }
 #u1203 {
   border-width:0px;
   position:absolute;
-  left:28px;
-  top:59px;
-  width:864px;
-  height:1478px;
+  left:1054px;
+  top:761px;
+  width:901px;
+  height:94px;
   display:flex;
 }
 #u1203 .text {
@@ -206,61 +216,51 @@
   text-transform:none;
   visibility:hidden;
 }
-#u1204_div {
+#u1204_img {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:169px;
-  height:33px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 0);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial', sans-serif;
-  font-style:normal;
+  width:900px;
+  height:479px;
 }
 #u1204 {
   border-width:0px;
   position:absolute;
-  left:28px;
-  top:18px;
-  width:169px;
-  height:33px;
+  left:1056px;
+  top:854px;
+  width:900px;
+  height:479px;
   display:flex;
-  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial', sans-serif;
-  font-style:normal;
 }
 #u1204 .text {
   position:absolute;
-  align-self:flex-start;
-  padding:0px 0px 0px 0px;
+  align-self:center;
+  padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
 #u1204_text {
   border-width:0px;
-  white-space:nowrap;
+  word-wrap:break-word;
   text-transform:none;
+  visibility:hidden;
 }
 #u1205_img {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:898px;
-  height:45px;
+  width:900px;
+  height:321px;
 }
 #u1205 {
   border-width:0px;
   position:absolute;
-  left:1057px;
-  top:831px;
-  width:898px;
-  height:45px;
+  left:1056px;
+  top:1329px;
+  width:900px;
+  height:321px;
   display:flex;
 }
 #u1205 .text {
